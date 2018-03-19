@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindMyAge</string>
+    <string name="button">Find my Age</string>
+    <string name="Text">Your age shows here</string>
+    <string name="Hint_text">Enter your Year.O.Birth</string>
+    <string name="error_text">Invalid input</string>
+</resources>
